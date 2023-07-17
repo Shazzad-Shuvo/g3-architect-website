@@ -6,6 +6,12 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+.section-title {
+    color: #131313;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 .text-light-gray {
     color: #727272;
 }
@@ -32,14 +38,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin-bottom: 50px; */
 }
 
-.nav-title {
-    color: #131313;
-    font-size: 2.8rem;
-    font-weight: 700;
-}
 
 nav ul {
     display: flex;
