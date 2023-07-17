@@ -270,6 +270,10 @@ main {
         position: static;
         max-width: 300px;
     }
+
+    .footer p{
+        padding: 40px;
+    }
 }
 
 /* tablet or medium devices */
@@ -284,5 +288,9 @@ main {
     .sponsor-img-container,
     .features {
         flex-direction: column;
+    }
+
+    .footer p{
+        padding: 40px;
     }
 }
